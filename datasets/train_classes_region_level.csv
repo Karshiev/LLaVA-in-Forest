@@ -1,4 +1,4 @@
-image_name,labels,Region-level Questions,Answers to Region-level Questions
+image_name,labels,questions,answers
 train_0,haze primary,Provide details about the activities or features visible in the region at the center-bottom of the image.,"The image depicts primary forest. It seems that it is captured in hazy weather. In the center-bottom of the image, there is densely forest with green trees. It is diffifult to tell the exact information in this kind of hazy weather. "
 train_1,agriculture clear primary water,Describe the types of land use found at the center-bottom of the image.,"From the center top  to center bottom of image shows a body of water, such as a river, or lake. "
 train_2,clear primary,Describe the region located at the center of the image.,The satellite image you have provided shows an area completely covered with dense primary forest under clear skies.

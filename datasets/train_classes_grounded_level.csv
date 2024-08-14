@@ -1,4 +1,4 @@
-image_name,labels,Grounded Level Questions,Answers to Grounded Level Questions
+image_name,labels,questions,answers
 train_2000,haze primary,,
 train_2001,agriculture cultivation partly_cloudy primary,,
 train_2002,haze primary,,
