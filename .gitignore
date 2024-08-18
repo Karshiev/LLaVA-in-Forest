@@ -166,3 +166,7 @@ datasets/amazon/
 
 # Checkpoints
 checkpoints/
+
+# Instruction datasets
+
+datasets/instructions
