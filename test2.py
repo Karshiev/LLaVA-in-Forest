@@ -9,8 +9,8 @@ warnings.filterwarnings('ignore')
 
 import PIL.Image as Image
 model_path = "liuhaotian/llava-v1.5-7b"
-prompt = "Give me a description of this image. Describe the types of land use found at the center-bottom of the image."
-image_file = "/ssd_1/sanjar/rsvlm/datasets/amazon/train/train-jpg/train_1.jpg"
+prompt = "Describe the types of land use found at the bottom of the image."
+image_file = "/ssd_1/sanjar/rsvlm/datasets/amazon/test/test-jpg/test_19.jpg"
 
 # image_file = "https://llava-vl.github.io/static/images/view.jpg"
 
