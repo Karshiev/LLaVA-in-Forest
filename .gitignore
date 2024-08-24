@@ -170,3 +170,13 @@ checkpoints/
 # Instruction datasets
 
 datasets/instructions
+datasets/data_prep.ipynb
+datasets/filtered_grounded_level.csv
+datasets/filtered_region_level.csv 
+datasets/region_grounded_mix.csv 
+datasets/train_classes.json
+datasets/train_classes_grounded_level.csv
+datasets/train_classes_region_level.csv
+datasets/train_classes_with_modified_answers_v2.csv
+
+
